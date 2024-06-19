@@ -44,6 +44,7 @@ body {
     font-size: 100px;
 }
 .info-container .text {
-    font-size: 20px;
+    text-align: center;
+    font-size: 17px;
     font-weight: bold;
 }
