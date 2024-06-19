@@ -39,9 +39,8 @@ body {
     align-items: center;
     justify-content: center;
     height: 100%;
-    transition: all 0.3s;
 }
-.info-container .horas {
+.info-container .horas-text {
     font-size: 100px;
 }
 .info-container .text {
